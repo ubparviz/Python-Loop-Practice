@@ -3,7 +3,7 @@
 from random import randint
 
 number = randint(100, 999)
-print(number) # Tekshirib ko'ring
+# print(number)  # Tekshirib ko'ring
 
 
 user_number = int(input("3 xonali maxfiy kodni toping: "))
